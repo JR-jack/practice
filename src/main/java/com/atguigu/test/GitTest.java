@@ -10,7 +10,7 @@ public class GitTest {
         System.out.println("helloworld");// push first
         System.out.println("helloworld");
         System.out.println("helloworld");
-        System.out.println("helloworld");
+        System.out.println("helloworld");// pull first????
         System.out.println("helloworld");
         System.out.println("helloworld");
         System.out.println("helloworld");
