@@ -7,7 +7,7 @@ public class GitTest {
         System.out.println("helloworld");// I`m second helloworld
         System.out.println("helloworld");// I`m hotfix fist
         System.out.println("helloworld");
-        System.out.println("helloworld");
+        System.out.println("helloworld");// push first
         System.out.println("helloworld");
         System.out.println("helloworld");
         System.out.println("helloworld");
